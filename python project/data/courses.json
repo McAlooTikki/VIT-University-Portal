@@ -1,0 +1,22 @@
+{
+    "PY101": {
+        "name": "Python",
+        "faculty": "Srig"
+    },
+    "MATH201": {
+        "name": "Calculus I",
+        "faculty": "Prabhu"
+    },
+    "PHYS101": {
+        "name": "Basic Engineering",
+        "faculty": "Sukanta"
+    },
+    "CHEM101": {
+        "name": "Chemistry",
+        "faculty": "Sukanta"
+    },
+    "CS101": {
+        "name": "Compuation Structures",
+        "faculty": "Prabhu"
+    }
+}

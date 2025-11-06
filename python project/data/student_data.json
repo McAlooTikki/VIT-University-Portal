@@ -1,0 +1,230 @@
+{
+    "students": {
+        "Harshit": {
+            "enrolled_courses": [
+                "PY101",
+                "MATH201",
+                "PHYS101",
+                "CHEM101",
+                "CS101"
+            ],
+            "course_data": {
+                "PY101": {
+                    "attendance": null,
+                    "marks": {},
+                    "projects": [
+                        {
+                            "title": "Python Project",
+                            "due": "6 November"
+                        }
+                    ]
+                },
+                "MATH201": {
+                    "attendance": null,
+                    "marks": {},
+                    "projects": [
+                        {
+                            "title": "DA 5",
+                            "due": "7 November"
+                        }
+                    ]
+                },
+                "PHYS101": {
+                    "attendance": null,
+                    "marks": {},
+                    "projects": [
+                        {
+                            "title": "Course Design Project",
+                            "due": "9 November"
+                        }
+                    ]
+                },
+                "CHEM101": {
+                    "attendance": null,
+                    "marks": {},
+                    "projects": [
+                        {
+                            "title": "Colorimetry",
+                            "due": "7 November"
+                        }
+                    ]
+                },
+                "CS101": {
+                    "attendance": null,
+                    "marks": {},
+                    "projects": [
+                        {
+                            "title": "Assessment 5",
+                            "due": "7 November"
+                        }
+                    ]
+                }
+            }
+        },
+        "SHILAJIT": {
+            "enrolled_courses": [
+                "PY101",
+                "MATH201",
+                "PHYS101",
+                "CHEM101",
+                "CS101"
+            ],
+            "course_data": {
+                "PY101": {
+                    "attendance": null,
+                    "marks": {},
+                    "projects": [
+                        {
+                            "title": "Python Project",
+                            "due": "6 November"
+                        }
+                    ]
+                },
+                "MATH201": {
+                    "attendance": null,
+                    "marks": {},
+                    "projects": [
+                        {
+                            "title": "DA 5",
+                            "due": "7 November"
+                        }
+                    ]
+                },
+                "PHYS101": {
+                    "attendance": null,
+                    "marks": {},
+                    "projects": [
+                        {
+                            "title": "Course Design Project",
+                            "due": "9 November"
+                        }
+                    ]
+                },
+                "CHEM101": {
+                    "attendance": null,
+                    "marks": {},
+                    "projects": [
+                        {
+                            "title": "Colorimetry",
+                            "due": "7 November"
+                        }
+                    ]
+                },
+                "CS101": {
+                    "attendance": null,
+                    "marks": {},
+                    "projects": [
+                        {
+                            "title": "Assessment 5",
+                            "due": "7 November"
+                        }
+                    ]
+                }
+            }
+        },
+        "Diddy": {
+            "enrolled_courses": [
+                "PY101",
+                "MATH201",
+                "PHYS101",
+                "CHEM101",
+                "CS101"
+            ],
+            "course_data": {
+                "PY101": {
+                    "attendance": null,
+                    "marks": {},
+                    "projects": [
+                        {
+                            "title": "Python Project",
+                            "due": "6 November"
+                        }
+                    ]
+                },
+                "MATH201": {
+                    "attendance": null,
+                    "marks": {},
+                    "projects": [
+                        {
+                            "title": "DA 5",
+                            "due": "7 November"
+                        }
+                    ]
+                },
+                "PHYS101": {
+                    "attendance": null,
+                    "marks": {},
+                    "projects": [
+                        {
+                            "title": "Course Design Project",
+                            "due": "9 November"
+                        }
+                    ]
+                },
+                "CHEM101": {
+                    "attendance": null,
+                    "marks": {},
+                    "projects": [
+                        {
+                            "title": "Colorimetry",
+                            "due": "7 November"
+                        }
+                    ]
+                },
+                "CS101": {
+                    "attendance": null,
+                    "marks": {},
+                    "projects": [
+                        {
+                            "title": "Assessment 5",
+                            "due": "7 November"
+                        }
+                    ]
+                }
+            }
+        },
+        "Sus": {
+            "enrolled_courses": [
+                "PY101",
+                "MATH201",
+                "PHYS101",
+                "CHEM101",
+                "CS101"
+            ],
+            "course_data": {
+                "PY101": {
+                    "attendance": null,
+                    "marks": {},
+                    "projects": []
+                },
+                "MATH201": {
+                    "attendance": null,
+                    "marks": {},
+                    "projects": []
+                },
+                "PHYS101": {
+                    "attendance": null,
+                    "marks": {},
+                    "projects": []
+                },
+                "CHEM101": {
+                    "attendance": null,
+                    "marks": {},
+                    "projects": []
+                },
+                "CS101": {
+                    "attendance": null,
+                    "marks": {},
+                    "projects": []
+                }
+            }
+        }
+    },
+    "exam_schedule": [
+        {
+            "subject": "Python Lab Fat",
+            "date": "13 November",
+            "time": "5:40 P.M."
+        }
+    ]
+}
